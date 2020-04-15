@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  worker: one
+  date: 2020-04-15
+  time_in: 2020-04-15 10:49:12
+  time_out: 2020-04-15 10:49:12
+
+two:
+  worker: two
+  date: 2020-04-15
+  time_in: 2020-04-15 10:49:12
+  time_out: 2020-04-15 10:49:12

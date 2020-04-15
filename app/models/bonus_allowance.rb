@@ -1,0 +1,2 @@
+class BonusAllowance < ApplicationRecord
+end
